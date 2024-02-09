@@ -25,4 +25,4 @@ The project consists of 4 parts: the core, launcher, output and uml packages.
 
 <p>3. output: contains the generated NuSMV script.
 
-<p>4 uml: using the API defined in the core package, manually creates the formal model and the formalized constraints.
+<p>4 uml: using the API defined in the core package, manually creates the formal model and the formalized constraints for the example UML class diagram.
